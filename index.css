@@ -1,0 +1,9 @@
+h1 {
+  font-weight: bold;
+  border: solid black 5px;
+  background-color: lightblue;
+}
+
+.note {
+  font-size: 12px;
+}
